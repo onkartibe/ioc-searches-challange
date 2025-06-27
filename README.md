@@ -7,7 +7,7 @@ A FastAPI service for submitting and searching Indicators of Compromise (IOCs) s
 ## Project Structure
 
 ```
-fastapi-template/
+ioc-searches/
 ├── app/
 │   ├── __init__.py
 │   ├── api.py           # API route definitions (FastAPI router)
